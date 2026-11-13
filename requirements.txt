@@ -1,0 +1,9 @@
+# Core experiment environment (versions recorded in the final reproducibility run)
+numpy==2.4.6
+scikit-learn==1.6.1
+transformers==4.57.1
+torch==2.14.1
+
+# Used for figures and the dashboard
+matplotlib
+streamlit
