@@ -1,0 +1,3 @@
+comparison,observed_macro_f1_difference_AraBERT_minus_competitor,two_sided_p,one_sided_p_for_H1_AraBERT_greater,n_test_reviews,n_test_aspect_labels,permutations,holm_adjusted_two_sided_p
+AraBERT vs MARBERT,0.03684022520187591,0.22457754224577542,0.11198880111988802,217,520,10000,0.44915508449155084
+AraBERT vs QARiB,-0.010530816423262368,0.7199280071992801,0.6473352664733527,217,520,10000,0.7199280071992801
