@@ -1,0 +1,521 @@
+﻿review_id,place,aspect,true_id,pred_id,true_sentiment,pred_sentiment
+1,قرية المفتاحة التشكلية,cleanliness,0,0,Negative,Negative
+1,قرية المفتاحة التشكلية,environment,2,0,Positive,Negative
+2,قرية المفتاحة التشكلية,facilities,2,2,Positive,Positive
+2,قرية المفتاحة التشكلية,environment,2,2,Positive,Positive
+2,قرية المفتاحة التشكلية,overall_experience,2,2,Positive,Positive
+5,قرية المفتاحة التشكلية,facilities,2,2,Positive,Positive
+5,قرية المفتاحة التشكلية,environment,2,2,Positive,Positive
+5,قرية المفتاحة التشكلية,overall_experience,2,2,Positive,Positive
+14,قرية المفتاحة التشكلية,facilities,1,2,Neutral,Positive
+14,قرية المفتاحة التشكلية,environment,1,2,Neutral,Positive
+15,قرية المفتاحة التشكلية,environment,2,2,Positive,Positive
+15,قرية المفتاحة التشكلية,overall_experience,2,2,Positive,Positive
+18,قرية المفتاحة التشكلية,facilities,2,0,Positive,Negative
+18,قرية المفتاحة التشكلية,environment,1,0,Neutral,Negative
+18,قرية المفتاحة التشكلية,overall_experience,0,0,Negative,Negative
+27,قرية المفتاحة التشكلية,facilities,2,0,Positive,Negative
+27,قرية المفتاحة التشكلية,environment,2,0,Positive,Negative
+31,قرية المفتاحة التشكلية,facilities,0,0,Negative,Negative
+31,قرية المفتاحة التشكلية,environment,0,0,Negative,Negative
+31,قرية المفتاحة التشكلية,overall_experience,0,0,Negative,Negative
+46,قرية المفتاحة التشكلية,facilities,2,2,Positive,Positive
+46,قرية المفتاحة التشكلية,environment,2,2,Positive,Positive
+56,قرية طبب التاريخية,price,0,0,Negative,Negative
+56,قرية طبب التاريخية,facilities,0,0,Negative,Negative
+56,قرية طبب التاريخية,environment,2,0,Positive,Negative
+56,قرية طبب التاريخية,overall_experience,1,0,Neutral,Negative
+61,قرية طبب التاريخية,facilities,0,0,Negative,Negative
+61,قرية طبب التاريخية,service_staff,0,0,Negative,Negative
+66,قرية طبب التاريخية,price,0,0,Negative,Negative
+66,قرية طبب التاريخية,facilities,0,0,Negative,Negative
+66,قرية طبب التاريخية,environment,0,0,Negative,Negative
+71,قرية طبب التاريخية,service_staff,0,0,Negative,Negative
+71,قرية طبب التاريخية,overall_experience,0,0,Negative,Negative
+76,قرية طبب التاريخية,cleanliness,0,0,Negative,Negative
+76,قرية طبب التاريخية,environment,2,0,Positive,Negative
+76,قرية طبب التاريخية,overall_experience,0,0,Negative,Negative
+78,قرية طبب التاريخية,service_staff,0,0,Negative,Negative
+78,قرية طبب التاريخية,environment,2,2,Positive,Positive
+78,قرية طبب التاريخية,overall_experience,2,0,Positive,Negative
+83,قرية طبب التاريخية,price,0,0,Negative,Negative
+83,قرية طبب التاريخية,facilities,0,0,Negative,Negative
+83,قرية طبب التاريخية,environment,0,0,Negative,Negative
+86,قرية طبب التاريخية,price,0,0,Negative,Negative
+86,قرية طبب التاريخية,facilities,0,0,Negative,Negative
+86,قرية طبب التاريخية,service_staff,0,0,Negative,Negative
+98,قرية طبب التاريخية,environment,0,2,Negative,Positive
+98,قرية طبب التاريخية,overall_experience,0,2,Negative,Positive
+104,قرية طبب التاريخية,environment,0,0,Negative,Negative
+104,قرية طبب التاريخية,overall_experience,0,0,Negative,Negative
+109,قرية طبب التاريخية,facilities,0,0,Negative,Negative
+109,قرية طبب التاريخية,environment,0,0,Negative,Negative
+109,قرية طبب التاريخية,overall_experience,0,0,Negative,Negative
+123,قرية طبب التاريخية,environment,2,2,Positive,Positive
+123,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+142,قرية طبب التاريخية,environment,2,2,Positive,Positive
+142,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+143,قرية طبب التاريخية,service_staff,2,2,Positive,Positive
+143,قرية طبب التاريخية,environment,2,2,Positive,Positive
+143,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+176,قرية طبب التاريخية,environment,2,2,Positive,Positive
+176,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+184,قرية طبب التاريخية,facilities,2,2,Positive,Positive
+184,قرية طبب التاريخية,environment,2,2,Positive,Positive
+184,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+189,قرية طبب التاريخية,environment,2,2,Positive,Positive
+189,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+193,قرية طبب التاريخية,environment,2,2,Positive,Positive
+193,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+197,قرية طبب التاريخية,facilities,2,2,Positive,Positive
+197,قرية طبب التاريخية,environment,2,2,Positive,Positive
+197,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+201,قرية طبب التاريخية,facilities,2,2,Positive,Positive
+201,قرية طبب التاريخية,environment,2,2,Positive,Positive
+201,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+203,قرية طبب التاريخية,service_staff,2,2,Positive,Positive
+203,قرية طبب التاريخية,environment,2,2,Positive,Positive
+205,قرية طبب التاريخية,service_staff,2,2,Positive,Positive
+205,قرية طبب التاريخية,environment,2,2,Positive,Positive
+205,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+215,قرية طبب التاريخية,cleanliness,2,2,Positive,Positive
+215,قرية طبب التاريخية,facilities,2,2,Positive,Positive
+215,قرية طبب التاريخية,service_staff,2,2,Positive,Positive
+215,قرية طبب التاريخية,environment,2,2,Positive,Positive
+225,قرية طبب التاريخية,facilities,1,2,Neutral,Positive
+225,قرية طبب التاريخية,environment,2,2,Positive,Positive
+225,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+241,قرية طبب التاريخية,facilities,2,2,Positive,Positive
+241,قرية طبب التاريخية,environment,2,2,Positive,Positive
+248,قرية طبب التاريخية,facilities,0,0,Negative,Negative
+248,قرية طبب التاريخية,environment,2,0,Positive,Negative
+248,قرية طبب التاريخية,overall_experience,0,0,Negative,Negative
+250,قرية طبب التاريخية,price,0,0,Negative,Negative
+250,قرية طبب التاريخية,environment,2,1,Positive,Neutral
+252,قرية طبب التاريخية,facilities,2,2,Positive,Positive
+252,قرية طبب التاريخية,environment,2,2,Positive,Positive
+254,قرية طبب التاريخية,facilities,1,0,Neutral,Negative
+254,قرية طبب التاريخية,environment,2,0,Positive,Negative
+254,قرية طبب التاريخية,overall_experience,1,0,Neutral,Negative
+265,قرية طبب التاريخية,price,0,0,Negative,Negative
+265,قرية طبب التاريخية,overall_experience,0,0,Negative,Negative
+268,قرية طبب التاريخية,facilities,1,0,Neutral,Negative
+268,قرية طبب التاريخية,environment,1,0,Neutral,Negative
+269,قرية طبب التاريخية,price,0,0,Negative,Negative
+269,قرية طبب التاريخية,environment,2,2,Positive,Positive
+271,قرية طبب التاريخية,facilities,1,0,Neutral,Negative
+271,قرية طبب التاريخية,environment,2,0,Positive,Negative
+273,قرية طبب التاريخية,environment,2,2,Positive,Positive
+273,قرية طبب التاريخية,overall_experience,2,2,Positive,Positive
+280,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+280,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+284,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+284,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+284,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+296,قصور أبو سراح التاريخية,facilities,0,0,Negative,Negative
+296,قصور أبو سراح التاريخية,service_staff,0,0,Negative,Negative
+296,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+299,قصور أبو سراح التاريخية,service_staff,2,2,Positive,Positive
+299,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+304,قصور أبو سراح التاريخية,facilities,0,0,Negative,Negative
+304,قصور أبو سراح التاريخية,environment,1,0,Neutral,Negative
+309,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+309,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+312,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+312,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+317,قصور أبو سراح التاريخية,facilities,2,0,Positive,Negative
+317,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+317,قصور أبو سراح التاريخية,overall_experience,0,2,Negative,Positive
+318,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+318,قصور أبو سراح التاريخية,environment,1,0,Neutral,Negative
+318,قصور أبو سراح التاريخية,overall_experience,0,0,Negative,Negative
+321,قصور أبو سراح التاريخية,price,1,0,Neutral,Negative
+321,قصور أبو سراح التاريخية,facilities,0,2,Negative,Positive
+321,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+331,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+331,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+332,قصور أبو سراح التاريخية,facilities,0,2,Negative,Positive
+332,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+343,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+343,قصور أبو سراح التاريخية,service_staff,0,2,Negative,Positive
+343,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+352,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+352,قصور أبو سراح التاريخية,environment,0,0,Negative,Negative
+352,قصور أبو سراح التاريخية,overall_experience,0,0,Negative,Negative
+353,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+353,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+357,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+357,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+359,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+359,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+359,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+360,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+360,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+362,قصور أبو سراح التاريخية,service_staff,2,2,Positive,Positive
+362,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+362,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+368,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+368,قصور أبو سراح التاريخية,facilities,2,0,Positive,Negative
+368,قصور أبو سراح التاريخية,environment,2,0,Positive,Negative
+383,قصور أبو سراح التاريخية,cleanliness,0,0,Negative,Negative
+383,قصور أبو سراح التاريخية,facilities,0,0,Negative,Negative
+383,قصور أبو سراح التاريخية,environment,0,0,Negative,Negative
+383,قصور أبو سراح التاريخية,overall_experience,0,0,Negative,Negative
+385,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+385,قصور أبو سراح التاريخية,facilities,2,0,Positive,Negative
+385,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+387,قصور أبو سراح التاريخية,environment,0,0,Negative,Negative
+387,قصور أبو سراح التاريخية,overall_experience,0,0,Negative,Negative
+396,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+396,قصور أبو سراح التاريخية,environment,1,1,Neutral,Neutral
+404,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+404,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+407,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+407,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+417,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+417,قصور أبو سراح التاريخية,overall_experience,0,0,Negative,Negative
+419,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+419,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+419,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+421,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+421,قصور أبو سراح التاريخية,facilities,0,0,Negative,Negative
+421,قصور أبو سراح التاريخية,service_staff,2,0,Positive,Negative
+421,قصور أبو سراح التاريخية,environment,1,0,Neutral,Negative
+423,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+423,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+426,قصور أبو سراح التاريخية,facilities,0,2,Negative,Positive
+426,قصور أبو سراح التاريخية,service_staff,2,2,Positive,Positive
+426,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+441,قصور أبو سراح التاريخية,service_staff,0,0,Negative,Negative
+441,قصور أبو سراح التاريخية,environment,0,0,Negative,Negative
+443,قصور أبو سراح التاريخية,service_staff,1,0,Neutral,Negative
+443,قصور أبو سراح التاريخية,environment,0,0,Negative,Negative
+453,قصور أبو سراح التاريخية,service_staff,2,2,Positive,Positive
+453,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+453,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+454,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+454,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+459,قصور أبو سراح التاريخية,price,0,0,Negative,Negative
+459,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+463,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+463,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+467,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+467,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+468,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+468,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+473,قصور أبو سراح التاريخية,cleanliness,2,2,Positive,Positive
+473,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+473,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+475,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+475,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+479,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+479,قصور أبو سراح التاريخية,service_staff,2,2,Positive,Positive
+479,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+479,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+487,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+487,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+488,قصور أبو سراح التاريخية,facilities,2,2,Positive,Positive
+488,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+488,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+492,قصور أبو سراح التاريخية,service_staff,2,2,Positive,Positive
+492,قصور أبو سراح التاريخية,environment,2,2,Positive,Positive
+492,قصور أبو سراح التاريخية,overall_experience,2,2,Positive,Positive
+493,قصور أبو سراح التاريخية,environment,0,0,Negative,Negative
+493,قصور أبو سراح التاريخية,overall_experience,0,0,Negative,Negative
+502,قصر المربع التاريخي,service_staff,2,2,Positive,Positive
+502,قصر المربع التاريخي,environment,2,2,Positive,Positive
+502,قصر المربع التاريخي,overall_experience,2,2,Positive,Positive
+504,قصر المربع التاريخي,facilities,2,2,Positive,Positive
+504,قصر المربع التاريخي,environment,2,2,Positive,Positive
+504,قصر المربع التاريخي,overall_experience,2,2,Positive,Positive
+507,قصر المربع التاريخي,facilities,2,2,Positive,Positive
+507,قصر المربع التاريخي,environment,2,2,Positive,Positive
+507,قصر المربع التاريخي,overall_experience,2,2,Positive,Positive
+512,قصر المربع التاريخي,cleanliness,2,2,Positive,Positive
+512,قصر المربع التاريخي,environment,2,2,Positive,Positive
+512,قصر المربع التاريخي,overall_experience,2,2,Positive,Positive
+530,جبل قارة,price,0,0,Negative,Negative
+530,جبل قارة,environment,2,2,Positive,Positive
+531,جبل قارة,price,0,0,Negative,Negative
+531,جبل قارة,environment,2,2,Positive,Positive
+546,جبل قارة,cleanliness,2,2,Positive,Positive
+546,جبل قارة,environment,2,2,Positive,Positive
+547,جبل قارة,price,0,0,Negative,Negative
+547,جبل قارة,environment,2,2,Positive,Positive
+550,جبل قارة,price,0,0,Negative,Negative
+550,جبل قارة,facilities,0,0,Negative,Negative
+550,جبل قارة,environment,2,2,Positive,Positive
+550,جبل قارة,overall_experience,2,1,Positive,Neutral
+562,جبل قارة,price,0,0,Negative,Negative
+562,جبل قارة,environment,1,2,Neutral,Positive
+565,جبل قارة,price,0,0,Negative,Negative
+565,جبل قارة,environment,1,0,Neutral,Negative
+566,جبل قارة,cleanliness,2,2,Positive,Positive
+566,جبل قارة,facilities,1,2,Neutral,Positive
+566,جبل قارة,service_staff,2,2,Positive,Positive
+566,جبل قارة,environment,2,2,Positive,Positive
+568,جبل قارة,price,0,0,Negative,Negative
+568,جبل قارة,environment,2,2,Positive,Positive
+569,جبل قارة,price,0,0,Negative,Negative
+569,جبل قارة,facilities,0,0,Negative,Negative
+569,جبل قارة,environment,0,0,Negative,Negative
+572,جبل قارة,price,0,0,Negative,Negative
+572,جبل قارة,overall_experience,2,2,Positive,Positive
+577,جبل قارة,price,0,0,Negative,Negative
+577,جبل قارة,environment,2,2,Positive,Positive
+577,جبل قارة,overall_experience,1,1,Neutral,Neutral
+581,جبل قارة,price,0,0,Negative,Negative
+581,جبل قارة,environment,2,2,Positive,Positive
+581,جبل قارة,overall_experience,2,2,Positive,Positive
+583,جبل قارة,price,0,0,Negative,Negative
+583,جبل قارة,environment,2,2,Positive,Positive
+584,جبل قارة,price,0,0,Negative,Negative
+584,جبل قارة,environment,0,0,Negative,Negative
+598,جبل قارة,price,0,0,Negative,Negative
+598,جبل قارة,environment,2,1,Positive,Neutral
+606,جبل قارة,price,0,0,Negative,Negative
+606,جبل قارة,service_staff,0,0,Negative,Negative
+609,جبل قارة,price,0,0,Negative,Negative
+609,جبل قارة,environment,2,2,Positive,Positive
+615,جبل قارة,price,0,0,Negative,Negative
+615,جبل قارة,environment,2,1,Positive,Neutral
+620,جبل قارة,price,0,0,Negative,Negative
+620,جبل قارة,environment,2,2,Positive,Positive
+633,جبل قارة,price,0,0,Negative,Negative
+633,جبل قارة,environment,2,2,Positive,Positive
+641,جبل قارة,service_staff,2,2,Positive,Positive
+641,جبل قارة,environment,2,2,Positive,Positive
+642,جبل قارة,price,0,0,Negative,Negative
+642,جبل قارة,overall_experience,0,0,Negative,Negative
+643,جبل قارة,environment,2,2,Positive,Positive
+643,جبل قارة,overall_experience,2,2,Positive,Positive
+644,جبل قارة,price,0,0,Negative,Negative
+644,جبل قارة,environment,2,2,Positive,Positive
+645,جبل قارة,price,0,0,Negative,Negative
+645,جبل قارة,environment,2,0,Positive,Negative
+645,جبل قارة,overall_experience,1,0,Neutral,Negative
+650,جبل قارة,price,0,0,Negative,Negative
+650,جبل قارة,environment,2,2,Positive,Positive
+651,جبل قارة,environment,2,2,Positive,Positive
+651,جبل قارة,overall_experience,2,2,Positive,Positive
+652,جبل قارة,price,0,0,Negative,Negative
+652,جبل قارة,service_staff,0,0,Negative,Negative
+652,جبل قارة,environment,0,0,Negative,Negative
+653,جبل قارة,price,0,0,Negative,Negative
+653,جبل قارة,overall_experience,0,0,Negative,Negative
+662,جبل قارة,price,0,0,Negative,Negative
+662,جبل قارة,environment,2,2,Positive,Positive
+662,جبل قارة,overall_experience,2,2,Positive,Positive
+666,جبل قارة,environment,2,2,Positive,Positive
+666,جبل قارة,overall_experience,2,2,Positive,Positive
+672,جبل قارة,price,0,0,Negative,Negative
+672,جبل قارة,environment,2,0,Positive,Negative
+678,جبل قارة,cleanliness,2,2,Positive,Positive
+678,جبل قارة,environment,2,2,Positive,Positive
+682,جبل قارة,price,0,0,Negative,Negative
+682,جبل قارة,environment,0,0,Negative,Negative
+683,جبل قارة,price,0,0,Negative,Negative
+683,جبل قارة,environment,0,0,Negative,Negative
+686,جبل قارة,price,0,0,Negative,Negative
+686,جبل قارة,service_staff,0,0,Negative,Negative
+688,جبل قارة,price,0,0,Negative,Negative
+688,جبل قارة,overall_experience,0,0,Negative,Negative
+692,جبل قارة,price,0,0,Negative,Negative
+692,جبل قارة,facilities,2,0,Positive,Negative
+692,جبل قارة,environment,2,2,Positive,Positive
+701,جبل قارة,price,0,0,Negative,Negative
+701,جبل قارة,overall_experience,0,0,Negative,Negative
+703,جبل قارة,cleanliness,2,2,Positive,Positive
+703,جبل قارة,environment,2,2,Positive,Positive
+709,جبل قارة,price,0,0,Negative,Negative
+709,جبل قارة,environment,2,1,Positive,Neutral
+713,جبل قارة,price,0,0,Negative,Negative
+713,جبل قارة,environment,2,0,Positive,Negative
+729,جبل قارة,price,0,0,Negative,Negative
+729,جبل قارة,facilities,0,0,Negative,Negative
+729,جبل قارة,environment,2,2,Positive,Positive
+730,جبل قارة,price,0,0,Negative,Negative
+730,جبل قارة,overall_experience,0,0,Negative,Negative
+738,جبل قارة,environment,2,2,Positive,Positive
+738,جبل قارة,overall_experience,2,2,Positive,Positive
+742,جبل قارة,environment,2,2,Positive,Positive
+742,جبل قارة,overall_experience,2,2,Positive,Positive
+746,جبل قارة,environment,2,2,Positive,Positive
+746,جبل قارة,overall_experience,2,2,Positive,Positive
+758,جبل قارة,price,0,0,Negative,Negative
+758,جبل قارة,environment,2,2,Positive,Positive
+761,جبل قارة,price,0,0,Negative,Negative
+761,جبل قارة,overall_experience,0,0,Negative,Negative
+762,جبل قارة,price,0,0,Negative,Negative
+762,جبل قارة,environment,2,2,Positive,Positive
+765,جبل قارة,price,0,0,Negative,Negative
+765,جبل قارة,environment,2,2,Positive,Positive
+765,جبل قارة,overall_experience,2,1,Positive,Neutral
+773,جبل قارة,facilities,2,2,Positive,Positive
+773,جبل قارة,environment,2,2,Positive,Positive
+773,جبل قارة,overall_experience,2,2,Positive,Positive
+774,جبل قارة,price,0,0,Negative,Negative
+774,جبل قارة,cleanliness,2,2,Positive,Positive
+774,جبل قارة,environment,2,2,Positive,Positive
+776,جبل قارة,price,0,0,Negative,Negative
+776,جبل قارة,environment,2,2,Positive,Positive
+784,جبل قارة,environment,2,2,Positive,Positive
+784,جبل قارة,overall_experience,2,2,Positive,Positive
+785,جبل قارة,price,0,0,Negative,Negative
+785,جبل قارة,environment,0,0,Negative,Negative
+785,جبل قارة,overall_experience,0,0,Negative,Negative
+790,جبل قارة,environment,2,2,Positive,Positive
+790,جبل قارة,overall_experience,2,2,Positive,Positive
+793,جبل قارة,environment,2,2,Positive,Positive
+793,جبل قارة,overall_experience,2,2,Positive,Positive
+795,جبل قارة,price,0,0,Negative,Negative
+795,جبل قارة,environment,2,2,Positive,Positive
+802,جبل قارة,environment,2,2,Positive,Positive
+802,جبل قارة,overall_experience,2,2,Positive,Positive
+804,جبل قارة,environment,0,0,Negative,Negative
+804,جبل قارة,overall_experience,0,0,Negative,Negative
+805,جبل قارة,price,0,0,Negative,Negative
+805,جبل قارة,environment,2,2,Positive,Positive
+809,جبل قارة,price,0,0,Negative,Negative
+809,جبل قارة,environment,2,1,Positive,Neutral
+821,بلدة العلا التراثية,price,0,2,Negative,Positive
+821,بلدة العلا التراثية,facilities,2,2,Positive,Positive
+821,بلدة العلا التراثية,environment,2,2,Positive,Positive
+821,بلدة العلا التراثية,overall_experience,2,2,Positive,Positive
+824,بلدة العلا التراثية,facilities,2,2,Positive,Positive
+824,بلدة العلا التراثية,environment,2,2,Positive,Positive
+828,بلدة العلا التراثية,facilities,2,2,Positive,Positive
+828,بلدة العلا التراثية,environment,2,2,Positive,Positive
+828,بلدة العلا التراثية,overall_experience,2,2,Positive,Positive
+833,بلدة العلا التراثية,price,0,0,Negative,Negative
+833,بلدة العلا التراثية,facilities,2,2,Positive,Positive
+833,بلدة العلا التراثية,environment,2,2,Positive,Positive
+837,بلدة العلا التراثية,environment,2,2,Positive,Positive
+837,بلدة العلا التراثية,overall_experience,2,2,Positive,Positive
+845,بلدة العلا التراثية,price,0,0,Negative,Negative
+845,بلدة العلا التراثية,facilities,0,1,Negative,Neutral
+845,بلدة العلا التراثية,environment,2,2,Positive,Positive
+849,بلدة العلا التراثية,facilities,2,2,Positive,Positive
+849,بلدة العلا التراثية,environment,2,2,Positive,Positive
+857,بلدة العلا التراثية,facilities,2,2,Positive,Positive
+857,بلدة العلا التراثية,environment,2,2,Positive,Positive
+860,بلدة العلا التراثية,price,0,0,Negative,Negative
+860,بلدة العلا التراثية,facilities,0,0,Negative,Negative
+860,بلدة العلا التراثية,environment,2,2,Positive,Positive
+864,بلدة العلا التراثية,price,0,0,Negative,Negative
+864,بلدة العلا التراثية,environment,2,2,Positive,Positive
+864,بلدة العلا التراثية,overall_experience,0,0,Negative,Negative
+870,بلدة العلا التراثية,price,0,0,Negative,Negative
+870,بلدة العلا التراثية,overall_experience,2,2,Positive,Positive
+872,القرية الشعبية,cleanliness,2,2,Positive,Positive
+872,القرية الشعبية,environment,2,2,Positive,Positive
+875,القرية الشعبية,facilities,2,2,Positive,Positive
+875,القرية الشعبية,environment,2,2,Positive,Positive
+875,القرية الشعبية,overall_experience,2,2,Positive,Positive
+877,القرية الشعبية,facilities,2,2,Positive,Positive
+877,القرية الشعبية,environment,2,2,Positive,Positive
+888,القرية الشعبية,price,0,0,Negative,Negative
+888,القرية الشعبية,environment,2,2,Positive,Positive
+892,القرية الشعبية,environment,2,2,Positive,Positive
+892,القرية الشعبية,overall_experience,2,2,Positive,Positive
+893,القرية الشعبية,price,0,0,Negative,Negative
+893,القرية الشعبية,environment,2,0,Positive,Negative
+899,القرية الشعبية,cleanliness,2,2,Positive,Positive
+899,القرية الشعبية,service_staff,2,2,Positive,Positive
+899,القرية الشعبية,environment,2,2,Positive,Positive
+913,القرية الشعبية,price,0,0,Negative,Negative
+913,القرية الشعبية,environment,2,2,Positive,Positive
+915,القرية الشعبية,price,2,2,Positive,Positive
+915,القرية الشعبية,environment,2,2,Positive,Positive
+916,القرية الشعبية,price,1,2,Neutral,Positive
+916,القرية الشعبية,environment,2,2,Positive,Positive
+919,القرية الشعبية,facilities,2,2,Positive,Positive
+919,القرية الشعبية,environment,2,2,Positive,Positive
+919,القرية الشعبية,overall_experience,2,2,Positive,Positive
+920,القرية الشعبية,price,0,0,Negative,Negative
+920,القرية الشعبية,environment,2,2,Positive,Positive
+921,القرية الشعبية,price,0,0,Negative,Negative
+921,القرية الشعبية,environment,2,2,Positive,Positive
+925,القرية الشعبية,price,2,2,Positive,Positive
+925,القرية الشعبية,environment,2,2,Positive,Positive
+933,القرية الشعبية,cleanliness,2,2,Positive,Positive
+933,القرية الشعبية,service_staff,2,2,Positive,Positive
+933,القرية الشعبية,environment,2,2,Positive,Positive
+935,القرية الشعبية,price,0,0,Negative,Negative
+935,القرية الشعبية,cleanliness,2,2,Positive,Positive
+935,القرية الشعبية,environment,1,1,Neutral,Neutral
+937,القرية الشعبية,facilities,2,2,Positive,Positive
+937,القرية الشعبية,environment,2,2,Positive,Positive
+938,القرية الشعبية,price,1,0,Neutral,Negative
+938,القرية الشعبية,cleanliness,2,2,Positive,Positive
+938,القرية الشعبية,environment,2,2,Positive,Positive
+948,القرية الشعبية,environment,2,2,Positive,Positive
+948,القرية الشعبية,overall_experience,2,2,Positive,Positive
+951,القرية الشعبية,price,1,2,Neutral,Positive
+951,القرية الشعبية,environment,2,2,Positive,Positive
+961,القرية الشعبية,environment,2,2,Positive,Positive
+961,القرية الشعبية,overall_experience,2,2,Positive,Positive
+966,القرية الشعبية,facilities,2,2,Positive,Positive
+966,القرية الشعبية,environment,2,2,Positive,Positive
+966,القرية الشعبية,overall_experience,2,2,Positive,Positive
+967,القرية الشعبية,facilities,2,2,Positive,Positive
+967,القرية الشعبية,environment,2,2,Positive,Positive
+967,القرية الشعبية,overall_experience,2,2,Positive,Positive
+968,القرية الشعبية,service_staff,2,2,Positive,Positive
+968,القرية الشعبية,environment,2,2,Positive,Positive
+969,القرية الشعبية,price,0,0,Negative,Negative
+969,القرية الشعبية,facilities,2,0,Positive,Negative
+969,القرية الشعبية,environment,2,2,Positive,Positive
+970,القرية الشعبية,price,2,2,Positive,Positive
+970,القرية الشعبية,environment,2,2,Positive,Positive
+975,القرية الشعبية,price,0,0,Negative,Negative
+975,القرية الشعبية,environment,0,0,Negative,Negative
+975,القرية الشعبية,overall_experience,0,0,Negative,Negative
+981,القرية الشعبية,price,0,0,Negative,Negative
+981,القرية الشعبية,environment,2,2,Positive,Positive
+985,طنطورة,price,0,0,Negative,Negative
+985,طنطورة,overall_experience,0,0,Negative,Negative
+1000,القرية التراثية في جازان,facilities,2,2,Positive,Positive
+1000,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1008,القرية التراثية في جازان,facilities,2,2,Positive,Positive
+1008,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1017,القرية التراثية في جازان,facilities,0,0,Negative,Negative
+1017,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1019,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1019,القرية التراثية في جازان,overall_experience,2,2,Positive,Positive
+1022,القرية التراثية في جازان,cleanliness,2,2,Positive,Positive
+1022,القرية التراثية في جازان,facilities,2,2,Positive,Positive
+1022,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1022,القرية التراثية في جازان,overall_experience,2,2,Positive,Positive
+1025,القرية التراثية في جازان,facilities,2,2,Positive,Positive
+1025,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1028,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1028,القرية التراثية في جازان,overall_experience,2,2,Positive,Positive
+1030,القرية التراثية في جازان,facilities,0,0,Negative,Negative
+1030,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1033,القرية التراثية في جازان,facilities,0,2,Negative,Positive
+1033,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1035,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1035,القرية التراثية في جازان,overall_experience,2,2,Positive,Positive
+1036,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1036,القرية التراثية في جازان,overall_experience,2,2,Positive,Positive
+1038,القرية التراثية في جازان,facilities,0,0,Negative,Negative
+1038,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1049,القرية التراثية في جازان,facilities,0,0,Negative,Negative
+1049,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1057,القرية التراثية في جازان,facilities,2,2,Positive,Positive
+1057,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1059,القرية التراثية في جازان,price,2,2,Positive,Positive
+1059,القرية التراثية في جازان,facilities,2,2,Positive,Positive
+1059,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1070,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1070,القرية التراثية في جازان,overall_experience,2,2,Positive,Positive
+1078,القرية التراثية في جازان,environment,2,2,Positive,Positive
+1078,القرية التراثية في جازان,overall_experience,2,2,Positive,Positive
+1081,القرية التراثية في جازان,cleanliness,2,2,Positive,Positive
+1081,القرية التراثية في جازان,facilities,2,2,Positive,Positive
+1081,القرية التراثية في جازان,overall_experience,2,2,Positive,Positive
+1082,القرية التراثية في جازان,service_staff,0,0,Negative,Negative
+1082,القرية التراثية في جازان,environment,2,0,Positive,Negative
+1083,القرية التراثية في جازان,facilities,0,2,Negative,Positive
+1083,القرية التراثية في جازان,environment,2,2,Positive,Positive
